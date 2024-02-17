@@ -37,3 +37,14 @@ NUM | NOME| NOTA
 3| SARAH | 9,0
 
 Terminou a tabela
+
+Mostrando fundinho cinza para comandos
+Comando `print` <p>
+Comando `document.getElementById()`
+
+Trechos de programinhas ( Mostrando a minha flha de estilo em CSS) 
+```
+    text-align: center;
+    color: white;
+    margin-bottom: 20px
+```
