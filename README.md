@@ -48,3 +48,7 @@ Trechos de programinhas ( Mostrando a minha flha de estilo em CSS)
     color: white;
     margin-bottom: 20px
 ```
+teste emogis
+💣 🐒 💨 🤭 🤙 🖖
+tem emogis:
+github.com/ikatyang
