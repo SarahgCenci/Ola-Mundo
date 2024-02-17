@@ -28,3 +28,12 @@ Exemplo de texto:
 **Aqui tem um texto em negrito**<p>
 *Aqui tem um texto em itálco*<p>
 _*Aqui tem um texto em negrito e itálico!_*<p>
+![gatinho](https://github.com/SarahgCenci/Ola-Mundo/assets/104398726/0977d069-99fd-43d8-87e4-cb878cceb2f6)
+
+NUM | NOME| NOTA 
+---|---|---
+1| GUSTAVO | 8,5
+2| JOSÉ | 10,0
+3| SARAH | 9,0
+
+Terminou a tabela
