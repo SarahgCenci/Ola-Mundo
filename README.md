@@ -2,4 +2,17 @@
  primeiro repositorio versionado
  Repositório criado
 
- - [x] lista
+
+Exemplo de lista de tarefas:
+
+Mercado
+ - [x] Maça
+ - [ ] Banana
+ - [ ] Mamão
+
+Exemplo de lista Demarcada:
+
+Mercado:
+*Maçã
+*Banana
+*Mamão
